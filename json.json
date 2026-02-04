@@ -64,7 +64,7 @@
       "name": "TBC"
     },
     "schedule": {
-      "days": [
+      "days": [1],
         {
           "date": "Feb 28th",
           "items": [
