@@ -72,7 +72,7 @@
             { "time": "9:00 AM", "activity": "Doors Open" },
             { "time": "9:00-9:10 AM", "activity": "Explore venue / Rest" },
             { "time": "9:10-9:30 AM", "activity": "Opening Ceremony" },
-            { "time": "9:30-9:40 AM", "activity": "Form Teams (Optional)" },
+            { "time": "9:30-9:40 AM", "activity": "Form Teams of 3" },
             { "time": "9:40-11:10 AM", "activity": "Godot Workshop" },
             { "time": "11:10 AM-12:10 PM", "activity": "Work on Your Game" },
             { "time": "12:10-1:10 PM", "activity": "Lunch" },
