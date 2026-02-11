@@ -65,7 +65,7 @@
       "link": "TBC"
     },
     "schedule": {
-      "days": [1],
+      "days": [
         {
           "date": "Feb 28th",
           "items": [
@@ -86,6 +86,7 @@
             ]
           ]
         }
+      ] 
     },
     "sponsors": {
       "cards": [
