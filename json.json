@@ -60,8 +60,9 @@
   "event": {
     "city": "Edinburgh",
     "date": "Feb 28 2026",
-    "venue": {
-      "name": "TBC"
+    "venue": { 
+      "name": "TBC",
+      "link": "TBC"
     },
     "schedule": {
       "days": [1],
