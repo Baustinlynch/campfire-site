@@ -69,21 +69,19 @@
         {
           "date": "Feb 28th",
           "items": [
-            [
-              { "time": "9:00 AM", "activity": "Doors Open" },
-              { "time": "9:00-9:10 AM", "activity": "Explore venue / Rest" },
-              { "time": "9:10-9:30 AM", "activity": "Opening Ceremony" },
-              { "time": "9:30-9:40 AM", "activity": "Form Teams (Optional)" },
-              { "time": "9:40-11:10 AM", "activity": "Godot Workshop" },
-              { "time": "11:10 AM-12:10 PM", "activity": "Work on Your Game" },
-              { "time": "12:10-1:10 PM", "activity": "Lunch" },
-              { "time": "1:10-4:10 PM", "activity": "Work on Your Game" },
-              { "time": "4:10-5:30 PM", "activity": "Dinner / Rest / Casual Work Time" },
-              { "time": "5:30-7:30 PM", "activity": "Work on Your Game" },
-              { "time": "7:30-8:00 PM", "activity": "Testing & Final Touches" },
-              { "time": "8:00-8:30 PM", "activity": "Voting & Presentations" },
-              { "time": "8:30-9:00 PM", "activity": "Closing Ceremony" }
-            ]
+            { "time": "9:00 AM", "activity": "Doors Open" },
+            { "time": "9:00-9:10 AM", "activity": "Explore venue / Rest" },
+            { "time": "9:10-9:30 AM", "activity": "Opening Ceremony" },
+            { "time": "9:30-9:40 AM", "activity": "Form Teams (Optional)" },
+            { "time": "9:40-11:10 AM", "activity": "Godot Workshop" },
+            { "time": "11:10 AM-12:10 PM", "activity": "Work on Your Game" },
+            { "time": "12:10-1:10 PM", "activity": "Lunch" },
+            { "time": "1:10-4:10 PM", "activity": "Work on Your Game" },
+            { "time": "4:10-5:30 PM", "activity": "Dinner / Rest / Casual Work Time" },
+            { "time": "5:30-7:30 PM", "activity": "Work on Your Game" },
+            { "time": "7:30-8:00 PM", "activity": "Testing & Final Touches" },
+            { "time": "8:00-8:30 PM", "activity": "Voting & Presentations" },
+            { "time": "8:30-9:00 PM", "activity": "Closing Ceremony" }
           ]
         }
       ] 
