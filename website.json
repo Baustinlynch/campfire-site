@@ -2,12 +2,12 @@
   "version": 2,
   "localization": {
     "hero": {
-      "campfire": "Campfire Edinburgh",
+      "campfire": "CAMPFIRE",
       "subtitle": "Game jam for high schoolers in 200+ cities",
-      "hostedAt": "Event TBC (to be confirmed)",
-      "emailPlaceholder": "edinburgh@campfire.hackclub.com",
-      "ctaPrimary": "SIGN UP NOW!",
-      "ctaSecondary": "Flagship Event",
+      "hostedAt": "Hosted @ ",
+      "emailPlaceholder": "you@hackclub.com",
+      "ctaPrimary": "SIGN UP!",
+      "ctaSecondary": "flagship event",
       "ctaSecondaryPrefix": "Looking for our ",
       "ctaSecondarySuffix": "?",
       "videoLabel": "watch the video",
