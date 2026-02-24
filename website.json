@@ -61,8 +61,8 @@
     "city": "Edinburgh",
     "date": "Feb 28 2026",
     "venue": { 
-      "name": "TBC",
-      "link": "TBC"
+      "name": "Augustine United Church",
+      "link": "https://maps.app.goo.gl/dBv8H5BhkYnA87nt7"
     },
     "schedule": {
       "days": [
@@ -73,8 +73,8 @@
             { "time": "9:00-9:10 AM", "activity": "Explore venue / Rest" },
             { "time": "9:10-9:30 AM", "activity": "Opening Ceremony" },
             { "time": "9:30-9:40 AM", "activity": "Form Teams of 3" },
-            { "time": "9:40-11:10 AM", "activity": "Godot Workshop" },
-            { "time": "11:10 AM-12:10 PM", "activity": "Work on Your Game" },
+            { "time": "9:40-9:50 AM", "activity": "Introduce Overdrive Workshop" },
+            { "time": "10:00 AM-12:10 PM", "activity": "Work on Your Game" },
             { "time": "12:10-1:10 PM", "activity": "Lunch" },
             { "time": "1:10-4:10 PM", "activity": "Work on Your Game" },
             { "time": "4:10-5:30 PM", "activity": "Dinner / Rest / Casual Work Time" },
@@ -92,6 +92,11 @@
           "sponsor": "Hack Club",
           "logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
           "link": "https://hackclub.com"
+        }
+        {
+          "sponsor": "CraftPix",
+          "logo": "https://cdn.hackclub.com/019c83c3-7a24-707d-9f6b-e30cd9cbfe04/CraftPix_logo_svg.svg",
+          "link": "http://craftpix.net/"
         }
       ]
     },
